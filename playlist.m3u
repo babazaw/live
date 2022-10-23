@@ -1,0 +1,46 @@
+#EXTM3U #EXTINF:-1group-title="MYANMAR",MAHABAWDI https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8 #EXTINF:-1group-title="MYANMAR",MRTV4 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8 #EXTINF:-1group-title="MYANMAR",Channel7 https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1group-title="MYANMAR",MNTV 
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8  #EXTINF:-1group-title="MYANMAR",MAHAR https://tv.mahar.live/mahar/website.stream/playlist.m3u8
+#EXTINF:-1group-title="MYANMAR",Myanmar Movie
+https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream_standard/index.m3u8     #EXTINF:-1group-title="MYANMAR",YTV http://183.89.246.119:8881/play/a081/index.m3u8
+#EXTINF:-1group-title="MYANMAR",5 plus http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1group-title="MYANMAR",Channel K http://183.89.246.119:8881/play/a080/index.m3u8
+#EXTINF:-1group-title="MYANMAR",Channel ME http://183.89.246.119:8881/play/a07t/index.m3u8
+#EXTINF:-1group-title="MYANMAR",Channel 9 http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1group-title="MYANMAR",MM Movie http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1group-title="MYANMAR",Fortune TV http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1group-title="MYANMAR",MM Serie http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1group-title="MYANMAR",MRTV Sport http://183.89.246.119:8881/play/a07q/index.m3u8
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Sport 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Sport 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Susan
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Maemadi
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Action
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Zatlan
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Chatate
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t
+#EXTINF:-1group-title="MYANMAR C+",Canal+ Pututu
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG
+#EXTINF:-1group-title="MYANMAR C+",Thukhuma 1
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm
+#EXTINF:-1group-title="MYANMAR C+",Thukhuma 2
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS
+#EXTINF:-1group-title="SPORT HD",BeinPremium 1HD
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1group-title="SPORT HD",BeinPremium 2HD
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1group-title="SPORT HD",BeinPremium 3HD
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1group-title="SPORT HD",MUTV HD
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
+#EXTINF:-1group-title="SPORT HD",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1group-title="SPORT HD",Tennis TV HD
+https://dai.google.com/linear/hls/event/Dlqr46ybTSGWGTfRWcxS0g/master.m3u8
+
